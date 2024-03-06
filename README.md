@@ -2,6 +2,9 @@
 
 This is a exercise to build pizza menu with React. The user can see pizza's data include price, ingredients, etc.
 
+- Screenshot:
+  ![index page](./screenshot/Pizza%20menu.png)
+
 ## Built with
 
 - React
